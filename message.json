@@ -1,0 +1,19 @@
+{
+  "event": "message",
+  "timestamp": 1581781379647,
+  "chat_hostname": "SN-CHAT-04_",
+  "message_token": 5409492870169230868,
+  "sender": {
+    "id": "MvwE6CTt4ewY2uOMLZQMeg==",
+    "name": "\\u0412\\u0456\\u0440\\u0430",
+    "avatar": "https:\\/\\/media-direct.cdn.viber.com\\/download_photo?dlid=Mj9pBRLcJ1royg5LE28ioKPfpkndUcslCveGh_Bkr8EHIGYfgjzz0Vusd6WuDRQIv5QJ9nlZLK1M4ELK80dF1R8L3GhDt66_UA875H7WK1RIWE2LBfqQTUg3dC7aP80-XSQqcQ&fltp=jpg&imsz=0000",
+    "language": "uk",
+    "country": "UA",
+    "api_version": 2
+  },
+  "message": {
+    "text": "asd",
+    "type": "text"
+  },
+  "silent": false
+}
